@@ -1,26 +1,30 @@
 # Python para Ciência de Dados
 
-## Objetivo
+Portfólio estruturado de projetos em Python aplicados ao ciclo de Ciência de Dados.
 
-Este repositório reúne projetos desenvolvidos em Python aplicados à Ciência de Dados.
+## Objetivo
+Desenvolver uma base prática em:
+- Manipulação de dados
+- Análise exploratória
+- Estatística
+- Visualização
+- Machine Learning
+- Automação de tarefas analíticas
 
 ## Tecnologias
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Scikit-learn
+Python • Pandas • NumPy • Matplotlib • Plotly • Scikit-learn • Jupyter
 
 ## Estrutura
+```
+data/
+notebooks/
+src/
+results/
+images/
+README.md
+```
 
-- dados/
-- notebooks/
-- src/
-- resultados/
-- imagens/
+## Metodologia
+Cada projeto busca seguir um fluxo reproduzível: **problema → dados → preparação → análise → modelo/visualização → conclusão**.
 
-## Projetos
-
-Em breve serão adicionados projetos completos de Ciência de Dados.
+> Repositório acadêmico e de portfólio.
